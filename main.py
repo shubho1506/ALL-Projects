@@ -287,7 +287,7 @@ def check_log_in(master, name, acc_num, pin):
 def logged_in_menu(accnt, name):
     rootwn = tk.Toplevel()
     rootwn.geometry("1600x500")
-    rootwn.title("CopyAssignment Bank | Welcome - " + name)
+    rootwn.title(" Bank | Welcome - " + name)
     rootwn.configure(background='SteelBlue1')
 
     fr1 = tk.Frame(rootwn)
