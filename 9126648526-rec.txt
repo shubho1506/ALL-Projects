@@ -1,0 +1,2 @@
+Date        credit   Debit   Balance
+[2023-12-24] [16:01:21]     0     0

@@ -1,0 +1,2 @@
+Date        credit   Debit   Balance
+[2023-11-28] [14:30:21]     2000     2000

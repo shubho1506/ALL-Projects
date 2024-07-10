@@ -1,0 +1,2 @@
+Date        credit   Debit   Balance
+[2023-12-24] [15:56:46]     888     888
